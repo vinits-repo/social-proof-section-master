@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://social-proof-section-master-lyart-iota.vercel.app/)
+- [Live Site URL](https://social-proof-section-master-lyart-iota.vercel.app/)
 
 ## My process
 
