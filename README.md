@@ -50,4 +50,4 @@ I learned how to structure a responsive social proof section using a combination
 - Twitter - [Vinitstwt](https://twitter.com/Vinitstwt)
 
 ### Acknowledgments
-I would like to express my gratitude to Frontend Mentor for providing this challenge and to anyone who contributed to the project or inspired me along the way.
+ I would like to express my gratitude to Frontend Mentor for providing this challenge and to the people who inspired me along the way.
